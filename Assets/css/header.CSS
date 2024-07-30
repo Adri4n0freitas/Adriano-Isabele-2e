@@ -32,6 +32,10 @@ color: var(--laranja);
     position: absolute;
     width: 60vw;
 }
+.menu-checkbox{
+    display: none;
+}
+
 .menu-checkbox:checked ~ .menu-lista{
     display: block;
 }
