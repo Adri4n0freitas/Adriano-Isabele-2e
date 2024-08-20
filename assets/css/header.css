@@ -12,6 +12,7 @@ body{
 .container{
     margin: 0px 14px;
     padding: 0.5em;
+    align-items: center;
 }
 
 .menu-hamburger{
