@@ -50,6 +50,9 @@
 .botao-ancora{
     background-color: var(--laranja);
     border-radius: 15px;
+    padding: 1em 2.2em;
+    font-weight: 700;
+    text-decoration: none;
     
 }
 
